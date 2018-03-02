@@ -12,3 +12,4 @@ while 1:
         a=a+1
         for i in range(10000):  
             f.write("hello\n")  #需要写入日志内容的代码
+#test commits
